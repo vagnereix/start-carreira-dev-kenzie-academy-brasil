@@ -1,8 +1,12 @@
-# 👨🏻‍💻 Start sua carreira - Portfólio
+<h1 align="center">👨🏻‍💻 Start sua carreira - Portfólio</h1>
 
-Projeto desenvolvido ao longo dos dias do curso Start Sua Carreira Dev da [Kenzie Academy Brasil](https://kenzie.com.br/), um currículo/portfólio.
+<p align="center">Projeto desenvolvido ao longo dos dias do curso Start Sua Carreira Dev da <a href="https://kenzie.com.br/">Kenzie Academy Brasil</a>, um currículo/portfólio.</p>
 
-Esse projeto foi atualizado todos os dias, com as alterações feitas juntamente às aulas.
+<p align="center">Esse projeto foi atualizado todos os dias, com as alterações feitas juntamente às aulas.</p>
+
+<p align="center">
+<img src="./.github/dev.jpg" alt="screenshot" width="1120px" />
+</p>
 
 ## 💻 Projeto
 
@@ -45,23 +49,23 @@ Esse projeto foi atualizado todos os dias, com as alterações feitas juntamente
 
 ### `animation`
 
-- [CSS Animations - W3Schools(em inglês)](https://www.w3schools.com/css/css3_animations.asp)
+- [CSS Animations - W3Schools (em inglês)](https://www.w3schools.com/css/css3_animations.asp)
 - [@keyframes - MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS/@keyframes)
 - [animation - MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
 
 ### `transition`
 
-- [CSS Transitions - W3Schools(em inglês)](https://www.w3schools.com/css/css3_transitions.asp)
+- [CSS Transitions - W3Schools (em inglês)](https://www.w3schools.com/css/css3_transitions.asp)
 - [transition - MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transition)
 
 ### `transform`
 
-- [CSS transform Property - W3Schools(em inglês)](https://www.w3schools.com/cssref/css3_pr_transform.asp)
+- [CSS transform Property - W3Schools (em inglês)](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 - [transform - MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform)
-- [transform - MDN(em inglês)](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+- [transform - MDN (em inglês)](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 
 ### `position`
 
-- [CSS position Property - W3Schools(em inglês)](https://www.w3schools.com/cssref/pr_class_position.asp)
+- [CSS position Property - W3Schools (em inglês)](https://www.w3schools.com/cssref/pr_class_position.asp)
 - [position - MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS/position)
-- [position - MDN(em inglês)](https://developer.mozilla.org/pt-BR/docs/Web/CSS/position)
+- [position - MDN (em inglês)](https://developer.mozilla.org/pt-BR/docs/Web/CSS/position)
