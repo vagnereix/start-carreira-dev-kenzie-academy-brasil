@@ -1,8 +1,8 @@
-# Start Sua Carreira - Portfólio
+# Start sua carreira - Portfólio
 
-Aqui vamos desenvolver ao longo dos dias desse curso, um currículo/portfólio.
+Projeto desenvolvido ao longo dos dias do curso Start Sua Carreira Dev da [Kenzie Academy Brasil](https://kenzie.com.br/), um currículo/portfólio.
 
-Esse repositório será atualizado todos os dias, com as alterações feitas junto com vocês nas lives.
+Esse projeto foi atualizado todos os dias, com as alterações feitas juntamente às aulas.
 
 ## O projeto
 
