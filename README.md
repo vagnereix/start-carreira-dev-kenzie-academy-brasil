@@ -1,6 +1,6 @@
 <h1 align="center">👨🏻‍💻 Start sua carreira - Portfólio</h1>
 
-<p align="center">Projeto desenvolvido ao longo dos dias do curso Start Sua Carreira Dev da <a href="https://kenzie.com.br/">Kenzie Academy Brasil</a>, um currículo/portfólio.</p>
+<p align="center">Projeto desenvolvido ao longo do curso Start Sua Carreira Dev da <a href="https://kenzie.com.br/">Kenzie Academy Brasil</a>, um currículo/portfólio.</p>
 
 <p align="center">Esse projeto foi atualizado todos os dias, com as alterações feitas juntamente às aulas.</p>
 
