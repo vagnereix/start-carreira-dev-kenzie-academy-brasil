@@ -1,10 +1,10 @@
-# Start sua carreira - Portfólio
+# 👨🏻‍💻 Start sua carreira - Portfólio
 
 Projeto desenvolvido ao longo dos dias do curso Start Sua Carreira Dev da [Kenzie Academy Brasil](https://kenzie.com.br/), um currículo/portfólio.
 
 Esse projeto foi atualizado todos os dias, com as alterações feitas juntamente às aulas.
 
-## O projeto
+## 💻 Projeto
 
 ### Estrutura de pastas
 
@@ -23,7 +23,7 @@ Esse projeto foi atualizado todos os dias, com as alterações feitas juntamente
         - css/
             - style.css
 
-### Especificações
+### 🔧 Especificações
 
 - Fonte utilizada: `'Open Sans', sans-serif;`
 - Cores utilizadas:
@@ -35,13 +35,13 @@ Esse projeto foi atualizado todos os dias, com as alterações feitas juntamente
     - Cinza escuro: `#636363`;
     - Cinza claro: `#aeaeae`;
 
-### O layout
+### 🚀 O layout
 
 [Desktop](./kenzie-academy_startnasuacarreira.png)
 
 [Mobile](./kenzie-academy_startnasuacarreira-mobile.png)
 
-## Documentação
+## 📚 Documentação
 
 ### `animation`
 
